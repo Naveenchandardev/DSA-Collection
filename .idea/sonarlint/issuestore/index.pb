@@ -7,3 +7,5 @@ T
 $src/main/java/org/dsa/list/Main.java,0\d\0d1a67dd2baa7724f163d27ebe47498e089f615b
 `
 0src/main/java/org/dsa/list/SinglyLInkedList.java,e\f\efeb0b7798d77b6aec6298b63758967c6b4b8186
+`
+0src/main/java/org/dsa/list/DoublyLinkedList.java,6\4\647afe8f5f1c3dcf56fec8364c0810dbcb44bfd2
