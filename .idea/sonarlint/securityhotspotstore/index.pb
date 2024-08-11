@@ -9,3 +9,5 @@ $src/main/java/org/dsa/list/Main.java,0\d\0d1a67dd2baa7724f163d27ebe47498e089f6
 0src/main/java/org/dsa/list/SinglyLInkedList.java,e\f\efeb0b7798d77b6aec6298b63758967c6b4b8186
 `
 0src/main/java/org/dsa/list/DoublyLinkedList.java,6\4\647afe8f5f1c3dcf56fec8364c0810dbcb44bfd2
+T
+$src/main/java/org/dsa/list/Node.java,f\f\ff32f4d90585e8ca154e9cc456e2b9c017f62727

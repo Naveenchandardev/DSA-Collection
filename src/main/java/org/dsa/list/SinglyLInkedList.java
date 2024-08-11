@@ -1,17 +1,6 @@
 package org.dsa.list;
 
-class Node {
-    int data;
-    Node next;
-    Node prev;
 
-    // Constructor
-    public Node(int data) {
-        this.data = data;
-        this.next = null;
-        this.prev = null;
-    }
-}
 public class SinglyLInkedList {
     public static void main(String[] args) {
         Node head = new Node(2);
@@ -19,7 +8,7 @@ public class SinglyLInkedList {
         head.next.next = new Node(4);
         head.next.next.next = new Node(5);
         head.next.next.next.next = new Node(6);
-        System.out.print("Linked List:");
+        System.out.print("Singly Linked List:");
         printList(head);
     }
     public static void printList(Node head) {
